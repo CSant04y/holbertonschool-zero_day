@@ -1,0 +1,1 @@
+The project goes over the basics of how to install your own virtual machin.
