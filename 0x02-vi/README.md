@@ -1,0 +1,1 @@
+This project over vim goes over the basic principals of vim as a text editor
